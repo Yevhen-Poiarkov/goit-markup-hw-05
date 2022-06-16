@@ -106,7 +106,7 @@ body {
 	font-weight: 500;
 	display: block;
 	padding: 32px 0;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-link:hover,
 .header-link:focus {
@@ -121,7 +121,7 @@ body {
 	display: block;
 	padding: 32px 0;
 	display: flex;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .header-tel:hover,
 .header-tel:focus,
@@ -201,7 +201,7 @@ body {
 	display: block;
 	margin-right: auto;
 	margin-left: auto;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .hero-button:hover,
 .hero-button:focus {
@@ -335,10 +335,11 @@ body {
 	align-items: center;
 	justify-content: center;
 	color: #afb1b8;
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .team-sotial-icon {
 	fill: currentColor;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .team-sotial-link:hover,
 .team-sotial-link:focus {
@@ -379,7 +380,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	color: #afb1b8;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .client-li:hover,
 .client-li:focus,
@@ -415,7 +416,7 @@ body {
 	border-radius: 4px;
 	margin-left: 8px;
 	padding: 6px 22px;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .button-filter:hover,
 .button-filter:focus {
@@ -444,7 +445,7 @@ body {
 	margin-right: 30px;
 	margin-bottom: 30px;
 	position: relative;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .work-li:hover .work-li-text {
 	transform: translateY(0);
@@ -539,7 +540,7 @@ body {
 	line-height: 1.71;
 	letter-spacing: 0.03em;
 	color: rgba(255, 255, 255, 0.6);
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-tel:hover,
 .footer-tel:focus,
@@ -582,7 +583,7 @@ body {
 }
 .conect-sotial-icon {
 	fill: currentColor;
-		transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+	transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .conect-sotial-link:hover,
 .conect-sotial-link:focus {
@@ -624,7 +625,6 @@ body {
 	position: absolute;
 	top: 8px;
 	right: 8px;
-	
 }
 .is-hidden {
 	visibility: hidden;
